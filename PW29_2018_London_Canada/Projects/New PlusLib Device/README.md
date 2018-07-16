@@ -1,8 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-## Write full project title here
-
-Adding a new Device to PlusLib
+Adding Bluetooth Accelerometer to PlusLib
 
 ## Key Investigators
 - Daniel Allen (Robarts Research Institute) 
@@ -14,7 +12,7 @@ Adding a new Device to PlusLib
 This project aims to add the WitMotion JY901 BlueTooth Accelerometer Device to PlusLib.
 
 ## Objective
-
+1. Update transforms based on data receieved from accelerometer
 
 ## Approach and Plan
 
