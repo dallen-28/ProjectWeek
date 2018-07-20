@@ -28,7 +28,7 @@ This project aims to add the WitMotion JY901 Accelerometer Device to PlusLib.
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-<!--![WitMotion Accelerometer](https://github.com/dallen-28/ProjectWeek/blob/master/PW29_2018_London_Canada/Projects/New%20PlusLib%20Device/Accel1.JPG)-->
+[WitMotion Accelerometer](https://github.com/dallen-28/ProjectWeek/blob/master/PW29_2018_London_Canada/Projects/New%20PlusLib%20Device/Accel1.JPG)
 
 <!--![Chest Fluoro 1](https://github.com/dallen-28/ProjectWeek/blob/master/PW29_2018_London_Canada/Projects/New%20PlusLib%20Device/chestFluoro1.PNG)-->
 
